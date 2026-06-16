@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Nikhil%20Singh%20Bhadoriya&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20Student%20%7C%20Business%20Analyst%20%7C%20Data%20Science%20%7C%20Generative%20AI&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Nikhil%20Singh%20Bhadoriya&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20Student%20%7C%20Business%20Analyst%20%7C%20Data%20Science&descAlignY=55&descSize=18" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nikhil Singh Bhadoriya</h1>
 
 <h3 align="center">
-B.Tech Student | Business Analyst | Data Science | Generative AI
+B.Tech Student | Business Analyst | Data Science
 </h3>
 
 <p align="center">
@@ -31,15 +31,15 @@ B.Tech Student | Business Analyst | Data Science | Generative AI
 
 <img align="right" width="310" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-I am a **B.Tech student at PDPM Indian Institute of Information Technology, Design and Manufacturing Jabalpur**, focused on building practical solutions in **Machine Learning, Data Science, Deep Learning, and Generative AI**.
+I am a **B.Tech student at PDPM Indian Institute of Information Technology, Design and Manufacturing Jabalpur**, focused on building practical solutions in **Machine Learning, Data Science, and Deep Learning**.
 
 I enjoy working on projects that combine **data, models, experimentation, and real-world problem solving**. My work includes data preprocessing, feature engineering, exploratory data analysis, model training, validation, evaluation, inference workflows, and deployment-oriented AI applications.
 
-- 🔭 Building projects in **Business Analytics, Data Science, and Generative AI**
+- 🔭 Building projects in **Business Analytics and Data Science**
 - 🌱 Learning **LLMs, RAG, Transformers, NLP, and MLOps fundamentals**
 - 📊 Interested in **predictive modeling, forecasting, AI systems, and data-driven products**
 - 🏆 Experienced with **Kaggle challenges, national hackathons, and AI/ML competitions**
-- 🎯 Open to internship opportunities in **Data Science, Business Analyst, and Generative AI**
+- 🎯 Open to internship opportunities in **Data Science and Business Analyst**
 
 ---
 
@@ -48,7 +48,6 @@ I enjoy working on projects that combine **data, models, experimentation, and re
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science%20Intern-228B22?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Business%20Analyst%20Intern-2F80ED?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI%20Intern-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -106,9 +105,8 @@ I enjoy working on projects that combine **data, models, experimentation, and re
       Demand Forecasting
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Deep%20Learning%20%26%20NLP-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Deep%20Learning%20%26%20NLP-EE4C2C?style=for-the-badge" />
       <br><br>
-      PyTorch<br>
       TensorFlow<br>
       Neural Networks<br>
       Transformers<br>
@@ -126,7 +124,7 @@ I enjoy working on projects that combine **data, models, experimentation, and re
       Plotly
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
       <br><br>
       Large Language Models<br>
       RAG<br>
@@ -153,7 +151,6 @@ I enjoy working on projects that combine **data, models, experimentation, and re
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" />
   <img src="https://img.shields.io/badge/Statsmodels-008080?style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
@@ -167,7 +164,7 @@ I enjoy working on projects that combine **data, models, experimentation, and re
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,mongodb,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,mongodb,git,github,vscode,mysql" />
 </p>
 
 <p align="center">
@@ -241,7 +238,6 @@ I enjoy working on projects that combine **data, models, experimentation, and re
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Transformers-FFD43B?style=flat-square" />
         <img src="https://img.shields.io/badge/Deep%20Learning-6A5ACD?style=flat-square" />
       </p>
@@ -320,7 +316,7 @@ I enjoy working on projects that combine **data, models, experimentation, and re
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science%20with%20Generative%20AI-PW%20Skills-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-PW%20Skills-blueviolet?style=for-the-badge" />
 </p>
 
 ---
