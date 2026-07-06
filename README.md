@@ -297,12 +297,6 @@ I enjoy working on projects that combine **data, models, experimentation, and re
       Kaggle Mallorn Astronomical Classification Challenge
     </td>
     <td align="center" width="20%">
-      <h2>⚡</h2>
-      <b>Finalist</b>
-      <br><br>
-      Techkriti’25 Machine Learning Hackathon
-    </td>
-    <td align="center" width="20%">
       <h2>📈</h2>
       <b>Finalist</b>
       <br><br>
