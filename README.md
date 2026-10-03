@@ -39,7 +39,7 @@ I enjoy working on projects that combine **data, models, experimentation, and re
 - 🌐 Developing interactive dashboards and frontend interfaces with **HTML, CSS, and JavaScript**
 - 🌱 Learning **LLMs, RAG, Transformers, NLP, and MLOps fundamentals**
 - 📊 Interested in **predictive modeling, forecasting, AI systems, and data-driven products**
-- 🏆 Experienced with **Kaggle challenges, national hackathons, and AI/ML competitions**
+- 🏆 Experienced with **National hackathons, and AI/ML competitions**
 - 🎯 Open to internship opportunities in **Machine Learning, Data Science, and Business Analytics**
 
 ---
