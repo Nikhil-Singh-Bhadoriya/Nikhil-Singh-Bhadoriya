@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Nikhil%20Singh%20Bhadoriya&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20Student%20%7C%20Business%20Analyst%20%7C%20Data%20Science&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Nikhil%20Singh%20Bhadoriya&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20Student%20%7C%20Machine%20Learning%20%7C%20Business%20Analyst%20%7C%20Data%20Science&descAlignY=55&descSize=18" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nikhil Singh Bhadoriya</h1>
 
 <h3 align="center">
-B.Tech Student | Business Analyst | Data Science
+B.Tech Student | Machine Learning | Business Analyst | Data Science
 </h3>
 
 <p align="center">
@@ -35,17 +35,19 @@ I am a **B.Tech student at PDPM Indian Institute of Information Technology, Desi
 
 I enjoy working on projects that combine **data, models, experimentation, and real-world problem solving**. My work includes data preprocessing, feature engineering, exploratory data analysis, model training, validation, evaluation, inference workflows, and deployment-oriented AI applications.
 
-- 🔭 Building projects in **Business Analytics and Data Science**
+- 🔭 Building projects in **Machine Learning, Business Analytics, and Data Science**
+- 🌐 Developing interactive dashboards and frontend interfaces with **HTML, CSS, and JavaScript**
 - 🌱 Learning **LLMs, RAG, Transformers, NLP, and MLOps fundamentals**
 - 📊 Interested in **predictive modeling, forecasting, AI systems, and data-driven products**
 - 🏆 Experienced with **Kaggle challenges, national hackathons, and AI/ML competitions**
-- 🎯 Open to internship opportunities in **Data Science and Business Analyst**
+- 🎯 Open to internship opportunities in **Machine Learning, Data Science, and Business Analytics**
 
 ---
 
 ## 🎯 Open To Opportunities
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Intern-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science%20Intern-228B22?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Business%20Analyst%20Intern-2F80ED?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
@@ -61,9 +63,20 @@ I enjoy working on projects that combine **data, models, experimentation, and re
       <br><br>
       <b>Python</b><br>
       <b>SQL</b><br>
+      <b>JavaScript</b><br>
       Analytical Scripting<br>
       Data Structures Basics<br>
       Notebook Workflows
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+      <br><br>
+      <b>Supervised Learning</b><br>
+      <b>Unsupervised Learning</b><br>
+      Regression & Classification<br>
+      Clustering & Ensembles<br>
+      Hyperparameter Tuning<br>
+      Model Validation & Evaluation
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Data%20Science%20%26%20Analytics-228B22?style=for-the-badge" />
@@ -74,26 +87,17 @@ I enjoy working on projects that combine **data, models, experimentation, and re
       Feature Engineering<br>
       Insight Generation
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Business%20Analytics-2F80ED?style=for-the-badge&logo=powerbi&logoColor=white" />
       <br><br>
       KPI Analysis<br>
       Revenue Leakage Analysis<br>
       Business Case Studies<br>
-      Dashboarding<br>
+      Interactive Dashboarding<br>
       Data Storytelling
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-      <br><br>
-      Regression<br>
-      Classification<br>
-      Clustering<br>
-      Predictive Modeling<br>
-      Model Evaluation
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Statistics%20%26%20Forecasting-008080?style=for-the-badge" />
@@ -124,21 +128,21 @@ I enjoy working on projects that combine **data, models, experimentation, and re
       Plotly
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
       <br><br>
       Large Language Models<br>
-      RAG<br>
+      RAG Pipelines<br>
       LangChain<br>
       Vector Databases
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Tools%20%26%20Deployment-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Web%20%26%20Deployment-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <br><br>
-      Git & GitHub<br>
+      <b>HTML5 & CSS3</b><br>
+      <b>JavaScript</b><br>
       FastAPI<br>
-      MongoDB<br>
-      VS Code<br>
-      Google Colab
+      Git & GitHub<br>
+      MongoDB & MySQL
     </td>
   </tr>
 </table>
@@ -146,16 +150,16 @@ I enjoy working on projects that combine **data, models, experimentation, and re
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" />
-  <img src="https://img.shields.io/badge/Statsmodels-008080?style=flat-square" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -164,7 +168,7 @@ I enjoy working on projects that combine **data, models, experimentation, and re
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,mongodb,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,html,css,js,fastapi,mongodb,mysql,git,github,vscode" />
 </p>
 
 <p align="center">
@@ -182,15 +186,15 @@ I enjoy working on projects that combine **data, models, experimentation, and re
 ## ⚡ What I Work With
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Preprocessing-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Feature%20Engineering-FF8C00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/EDA-228B22?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Model%20Training-20B2AA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Model%20Evaluation-DC143C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-9370DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20UIs-E34F26?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP%20%26%20RAG-4B0082?style=for-the-badge" />
 </p>
 
 ---
