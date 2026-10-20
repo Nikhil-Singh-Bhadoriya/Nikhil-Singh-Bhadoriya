@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Singh Bhadoriya</h1>
 
 <h3 align="center">
-B.Tech Student | Machine Learning | Business Analyst | Data Science
+  B.Tech Student | Machine Learning | Business Analyst | Data Science
 </h3>
 
 <p align="center">
@@ -131,6 +131,7 @@ I enjoy working on projects that combine **data, models, experimentation, and re
       <img src="https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
       <br><br>
       Large Language Models<br>
+      <b>Model Fine-Tuning</b><br>
       RAG Pipelines<br>
       LangChain<br>
       Vector Databases
@@ -156,6 +157,7 @@ I enjoy working on projects that combine **data, models, experimentation, and re
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model_Fine--Tuning-8A2BE2?style=flat-square&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -168,7 +170,9 @@ I enjoy working on projects that combine **data, models, experimentation, and re
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,html,css,js,fastapi,mongodb,mysql,git,github,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,html,css,js,fastapi,mongodb,mysql,git,github,vscode" />
+  </a>
 </p>
 
 <p align="center">
@@ -195,6 +199,7 @@ I enjoy working on projects that combine **data, models, experimentation, and re
   <img src="https://img.shields.io/badge/Web%20UIs-E34F26?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-008080?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP%20%26%20RAG-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Fine--Tuning-8A2BE2?style=for-the-badge" />
 </p>
 
 ---
@@ -298,7 +303,7 @@ I enjoy working on projects that combine **data, models, experimentation, and re
       <h2>📊</h2>
       <b>Top 7.7%</b>
       <br><br>
-      Kaggle Mallorn Astronomical Classification Challenge
+      Kraggle Mallorn Astronomical Classification Challenge
     </td>
     <td align="center" width="20%">
       <h2>📈</h2>
